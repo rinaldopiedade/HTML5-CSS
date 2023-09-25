@@ -15,8 +15,8 @@
     --color4:#1a5c37;
     --color5:#063d1e;
     --font-padrao: Arial, verdana, helvetica, sans-serif;
-    --font-destaque:'Bebas Neue', sem serifa;
-    --font-android:'android', cursive
+    --font-destaque:'Bebas Neue', sans-serif;
+    --font-android:'android';
 
 }
 *{padding: 0px; margin: 0px;}
